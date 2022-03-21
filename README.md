@@ -12,7 +12,7 @@
 
 ***Daha fazla bilgi için [Git-Cheat-Sheet](https://education.github.com/git-cheat-sheet-education.pdf)***
 
-![resim](img\picture.PNG)
+![resim](picture.PNG)
 
 ### Kısaca Git
 >**Repository Proje dosyalarını uzak bir sunucuda depolar. Genel kullanımda “Repo” olarak da kısaltılır.**
