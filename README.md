@@ -1,0 +1,2 @@
+# myproject
+Yaptığım ilk proje
